@@ -1,0 +1,14 @@
+
+//#define N_ENTRADAS 11  // con glrls
+#define N_ENTRADAS 25  // 25 con LBPColor
+#define PORC_PATRONES_ENTRENA 0.80
+#define CACHE_SIZE 50
+#define EPSILON_LIBSVM 0.001
+#define N_VALORES_C 20
+#define N_VALORES_GAMMA 16
+#define N_CLASES 2
+#define N_ESTADOS 3
+#define N_FICH_CLASIF 3
+#define N_PATRONES_MAX 1500
+#define MARXE_BORDE_ENTRENA 50
+#define MARXE_BORDE_CLASIF 5

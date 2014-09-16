@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/govocitos/!svn/ver/199/src/Clasificador
+END
+Clasificador.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/govocitos/!svn/ver/197/src/Clasificador/Clasificador.cpp
+END
+svm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/govocitos/!svn/ver/134/src/Clasificador/svm.cpp
+END
+Clasificador.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/govocitos/!svn/ver/197/src/Clasificador/Clasificador.h
+END
+svm.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/govocitos/!svn/ver/2/src/Clasificador/svm.h
+END

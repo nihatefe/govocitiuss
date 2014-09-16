@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/govocitos/!svn/ver/206/po
+END
+LINGUAS
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/govocitos/!svn/ver/1/po/LINGUAS
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/govocitos/!svn/ver/206/po/Makefile.in
+END
+POTFILES
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/govocitos/!svn/ver/197/po/POTFILES
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/govocitos/!svn/ver/206/po/ChangeLog
+END
+Makefile.in.in
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/govocitos/!svn/ver/206/po/Makefile.in.in
+END
+POTFILES.in
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/govocitos/!svn/ver/1/po/POTFILES.in
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/govocitos/!svn/ver/1/po/.cvsignore
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/govocitos/!svn/ver/206/po/Makefile
+END
+stamp-it
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/govocitos/!svn/ver/1/po/stamp-it
+END

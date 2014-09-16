@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/govocitos/!svn/ver/197/src/Interfaz
+END
+MenuBarraPrincipal.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/govocitos/!svn/ver/153/src/Interfaz/MenuBarraPrincipal.h
+END
+InterfazGovocitos.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/govocitos/!svn/ver/197/src/Interfaz/InterfazGovocitos.h
+END
+BarraEstado.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/govocitos/!svn/ver/153/src/Interfaz/BarraEstado.cpp
+END
+DialogoBarraProgres.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/govocitos/!svn/ver/153/src/Interfaz/DialogoBarraProgres.h
+END
+MenuPopup.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/govocitos/!svn/ver/153/src/Interfaz/MenuPopup.h
+END
+MenuSeleccion.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/govocitos/!svn/ver/153/src/Interfaz/MenuSeleccion.h
+END
+DialogoIndividuo.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/govocitos/!svn/ver/177/src/Interfaz/DialogoIndividuo.h
+END
+PlotHistogram.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/govocitos/!svn/ver/150/src/Interfaz/PlotHistogram.h
+END
+PanelDibujado.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/govocitos/!svn/ver/196/src/Interfaz/PanelDibujado.cpp
+END
+DialogoRemoto.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/govocitos/!svn/ver/153/src/Interfaz/DialogoRemoto.cpp
+END
+RejillaPersonalizada.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/govocitos/!svn/ver/150/src/Interfaz/RejillaPersonalizada.h
+END
+DialogoAGLocal.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/govocitos/!svn/ver/153/src/Interfaz/DialogoAGLocal.h
+END
+PanelDatosEstadisticos.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/govocitos/!svn/ver/196/src/Interfaz/PanelDatosEstadisticos.cpp
+END
+Preferencias.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/govocitos/!svn/ver/162/src/Interfaz/Preferencias.h
+END
+PanelFecundidad.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/govocitos/!svn/ver/180/src/Interfaz/PanelFecundidad.h
+END
+PanelDiametros.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/govocitos/!svn/ver/164/src/Interfaz/PanelDiametros.h
+END
+MenuBarraPrincipal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/govocitos/!svn/ver/197/src/Interfaz/MenuBarraPrincipal.cpp
+END
+InterfazGovocitos.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/govocitos/!svn/ver/197/src/Interfaz/InterfazGovocitos.cpp
+END
+PanelPropiedades.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/govocitos/!svn/ver/160/src/Interfaz/PanelPropiedades.h
+END
+DialogoBarraProgres.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/govocitos/!svn/ver/153/src/Interfaz/DialogoBarraProgres.cpp
+END
+MenuPopup.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/govocitos/!svn/ver/156/src/Interfaz/MenuPopup.cpp
+END
+MenuSeleccion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/govocitos/!svn/ver/156/src/Interfaz/MenuSeleccion.cpp
+END
+DialogoIndividuo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/govocitos/!svn/ver/177/src/Interfaz/DialogoIndividuo.cpp
+END
+PlotHistogram.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/govocitos/!svn/ver/150/src/Interfaz/PlotHistogram.cpp
+END
+BarraEstado.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/govocitos/!svn/ver/153/src/Interfaz/BarraEstado.h
+END
+RejillaPersonalizada.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/govocitos/!svn/ver/156/src/Interfaz/RejillaPersonalizada.cpp
+END
+DialogoAGLocal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/govocitos/!svn/ver/153/src/Interfaz/DialogoAGLocal.cpp
+END
+Preferencias.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/govocitos/!svn/ver/162/src/Interfaz/Preferencias.cpp
+END
+PanelFecundidad.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/govocitos/!svn/ver/183/src/Interfaz/PanelFecundidad.cpp
+END
+PanelDibujado.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/govocitos/!svn/ver/190/src/Interfaz/PanelDibujado.h
+END
+PanelDiametros.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/govocitos/!svn/ver/164/src/Interfaz/PanelDiametros.cpp
+END
+DialogoRemoto.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/govocitos/!svn/ver/153/src/Interfaz/DialogoRemoto.h
+END
+PanelDatosEstadisticos.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/govocitos/!svn/ver/160/src/Interfaz/PanelDatosEstadisticos.h
+END
+PanelPropiedades.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/govocitos/!svn/ver/160/src/Interfaz/PanelPropiedades.cpp
+END

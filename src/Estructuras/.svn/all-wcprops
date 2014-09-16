@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/govocitos/!svn/ver/191/src/Estructuras
+END
+ClasificaCelula.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/govocitos/!svn/ver/163/src/Estructuras/ClasificaCelula.cpp
+END
+ImageCells.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/govocitos/!svn/ver/191/src/Estructuras/ImageCells.cpp
+END
+EstadoCelula.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/govocitos/!svn/ver/150/src/Estructuras/EstadoCelula.cpp
+END
+Celula.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/govocitos/!svn/ver/153/src/Estructuras/Celula.cpp
+END
+ResultadosImagen.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/govocitos/!svn/ver/164/src/Estructuras/ResultadosImagen.cpp
+END
+ListadoCelulas.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/govocitos/!svn/ver/150/src/Estructuras/ListadoCelulas.cpp
+END
+ListadoImagenes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/govocitos/!svn/ver/156/src/Estructuras/ListadoImagenes.cpp
+END
+ClasificaCelula.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/govocitos/!svn/ver/163/src/Estructuras/ClasificaCelula.h
+END
+ImageCells.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/govocitos/!svn/ver/191/src/Estructuras/ImageCells.h
+END
+EstadoCelula.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/govocitos/!svn/ver/150/src/Estructuras/EstadoCelula.h
+END
+Celula.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/govocitos/!svn/ver/153/src/Estructuras/Celula.h
+END
+ListadoIndividuo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/govocitos/!svn/ver/174/src/Estructuras/ListadoIndividuo.cpp
+END
+NucleoCelula.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/govocitos/!svn/ver/150/src/Estructuras/NucleoCelula.cpp
+END
+ResultadosImagen.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/govocitos/!svn/ver/164/src/Estructuras/ResultadosImagen.h
+END
+DataImage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/govocitos/!svn/ver/156/src/Estructuras/DataImage.cpp
+END
+ListadoCelulas.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/govocitos/!svn/ver/150/src/Estructuras/ListadoCelulas.h
+END
+ClaseCelula.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/govocitos/!svn/ver/105/src/Estructuras/ClaseCelula.cpp
+END
+ListadoImagenes.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/govocitos/!svn/ver/150/src/Estructuras/ListadoImagenes.h
+END
+ListadoIndividuo.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/govocitos/!svn/ver/174/src/Estructuras/ListadoIndividuo.h
+END
+NucleoCelula.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/govocitos/!svn/ver/150/src/Estructuras/NucleoCelula.h
+END
+DataImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/govocitos/!svn/ver/153/src/Estructuras/DataImage.h
+END
+ClaseCelula.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/govocitos/!svn/ver/150/src/Estructuras/ClaseCelula.h
+END
+ListadoCache.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/govocitos/!svn/ver/162/src/Estructuras/ListadoCache.cpp
+END
+ListadoCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/govocitos/!svn/ver/153/src/Estructuras/ListadoCache.h
+END

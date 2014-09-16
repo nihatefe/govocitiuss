@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/govocitos/!svn/ver/206/src
+END
+Entrenamiento.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/govocitos/!svn/ver/197/src/Entrenamiento.h
+END
+entrenamiento_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/govocitos/!svn/ver/197/src/entrenamiento_defs.h
+END
+Fichero.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/govocitos/!svn/ver/163/src/Fichero.cpp
+END
+VentanaSeleccionEspecie.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/govocitos/!svn/ver/197/src/VentanaSeleccionEspecie.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/govocitos/!svn/ver/203/src/main.cpp
+END
+VentanaSeleccionEspecie.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/govocitos/!svn/ver/197/src/VentanaSeleccionEspecie.h
+END
+Fichero.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/govocitos/!svn/ver/163/src/Fichero.h
+END
+CoreGovocitos.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/govocitos/!svn/ver/197/src/CoreGovocitos.cpp
+END
+libbordeswin32.a
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/govocitos/!svn/ver/197/src/libbordeswin32.a
+END
+libbordeslinux32.a
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/govocitos/!svn/ver/197/src/libbordeslinux32.a
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/govocitos/!svn/ver/206/src/Makefile.am
+END
+CoreGovocitos.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/govocitos/!svn/ver/197/src/CoreGovocitos.h
+END
+libbordeslinux64.a
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/govocitos/!svn/ver/197/src/libbordeslinux64.a
+END
+Dialogos.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/govocitos/!svn/ver/197/src/Dialogos.cpp
+END
+Utiles.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/govocitos/!svn/ver/202/src/Utiles.cpp
+END
+Dialogos.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/govocitos/!svn/ver/197/src/Dialogos.h
+END
+Entrenamiento.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/govocitos/!svn/ver/197/src/Entrenamiento.cpp
+END
+Utiles.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/govocitos/!svn/ver/202/src/Utiles.h
+END
